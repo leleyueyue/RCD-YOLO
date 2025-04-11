@@ -6,7 +6,7 @@ By Guizhong Fu, Wenwu Le, Qixin Zhu, Jingbin Li, Quansheng Jiang and Yehu Shen.
 The paper is available at [`[PDF Download]`](https://iopscience.iop.org/article/10.1088/1361-6501/adc9d7)
 
 
-[`model download`](ours/best.pt)
+[`model download`](ours/RCD-YOLO.pt)
 
 ### Abstract
 In recent years, intelligent object detection technology has been applied to many industries. 
@@ -21,7 +21,7 @@ The model achieves high precision and still maintains high reasoning speed at 17
 
 
 <img src="fig1.png" width="100%" height="100%">
-<img src="fig8.png" width="100%" height="100%">
+<img src="fig2.png" width="100%" height="100%">
 
 
 ### Cite us using:
