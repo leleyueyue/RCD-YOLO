@@ -6,6 +6,7 @@ By Guizhong Fu, Wenwu Le, Qixin Zhu, Jingbin Li, Quansheng Jiang and Yehu Shen.
 The paper is available at [`[PDF Download]`](https://iopscience.iop.org/article/10.1088/1361-6501/adc9d7)
 
 
+[`model download`](ours/best.pt)
 
 ### Abstract
 In recent years, intelligent object detection technology has been applied to many industries. 
